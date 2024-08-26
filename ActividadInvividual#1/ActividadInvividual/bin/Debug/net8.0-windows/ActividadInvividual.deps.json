@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ActividadInvividual/1.0.0": {
+        "dependencies": {
+          "JuegosLibreria": "1.0.0"
+        },
+        "runtime": {
+          "ActividadInvividual.dll": {}
+        }
+      },
+      "JuegosLibreria/1.0.0": {
+        "runtime": {
+          "JuegosLibreria.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ActividadInvividual/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "JuegosLibreria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

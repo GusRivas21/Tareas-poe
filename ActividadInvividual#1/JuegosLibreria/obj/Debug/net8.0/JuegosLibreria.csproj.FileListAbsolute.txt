@@ -1,0 +1,11 @@
+C:\Users\MINEDUCYT\source\repos\ActividadInvividual#1\JuegosLibreria\bin\Debug\net8.0\JuegosLibreria.deps.json
+C:\Users\MINEDUCYT\source\repos\ActividadInvividual#1\JuegosLibreria\bin\Debug\net8.0\JuegosLibreria.dll
+C:\Users\MINEDUCYT\source\repos\ActividadInvividual#1\JuegosLibreria\bin\Debug\net8.0\JuegosLibreria.pdb
+C:\Users\MINEDUCYT\source\repos\ActividadInvividual#1\JuegosLibreria\obj\Debug\net8.0\JuegosLibreria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\source\repos\ActividadInvividual#1\JuegosLibreria\obj\Debug\net8.0\JuegosLibreria.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\source\repos\ActividadInvividual#1\JuegosLibreria\obj\Debug\net8.0\JuegosLibreria.AssemblyInfo.cs
+C:\Users\MINEDUCYT\source\repos\ActividadInvividual#1\JuegosLibreria\obj\Debug\net8.0\JuegosLibreria.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\source\repos\ActividadInvividual#1\JuegosLibreria\obj\Debug\net8.0\JuegosLibreria.dll
+C:\Users\MINEDUCYT\source\repos\ActividadInvividual#1\JuegosLibreria\obj\Debug\net8.0\refint\JuegosLibreria.dll
+C:\Users\MINEDUCYT\source\repos\ActividadInvividual#1\JuegosLibreria\obj\Debug\net8.0\JuegosLibreria.pdb
+C:\Users\MINEDUCYT\source\repos\ActividadInvividual#1\JuegosLibreria\obj\Debug\net8.0\ref\JuegosLibreria.dll
